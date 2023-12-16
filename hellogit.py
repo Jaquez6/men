@@ -1,1 +1,1 @@
-print("A ver lokito New Hello Git2!")
+print("New Hello GitHub!")
